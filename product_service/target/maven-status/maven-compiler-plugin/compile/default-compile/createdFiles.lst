@@ -1,0 +1,10 @@
+com\shopping\productservice\model\Product.class
+com\shopping\productservice\ProductServiceApplication.class
+com\shopping\productservice\service\ProductService.class
+com\shopping\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\shopping\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\shopping\productservice\controller\ProductController.class
+com\shopping\productservice\dto\ProductRequest.class
+com\shopping\productservice\repository\ProductRepository.class
+com\shopping\productservice\model\Product$ProductBuilder.class
+com\shopping\productservice\dto\ProductResponse.class
